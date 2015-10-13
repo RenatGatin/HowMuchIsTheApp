@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">HowMuchIsTheApp</string>
+
+    <string name="main_title">HOW MUCH TO MAKE AN APP</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">LoginActivity</string>
+
+    <!-- Payfirma API credentials-->
+    <string name="PayfirmaAPIsURL">https://ecom.payfirma.com</string>
+    <string name="payfirma_key">38b82307ad792e944a14265486502b8c5e46aeb4</string>
+    <string name="payfirma_merchant_id">c362f611cc</string>
+
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_create_account">CreateAccountActivity</string>
+    <string name="RESTfulAPIsURL">http://gatin.ca:8080/todoapi/webapi</string>
+    <string name="title_activity_choose_platforms">ChoosePlatforms</string>
+    <string name="what_app">What type of app are you building?</string>
+    <string name="what_app_desc">Apple iOS is a better choice to reach a more engaged user base. Android has a broader reach, however, particularly in emerging markets, like Asia and Africa.</string>
+    <string name="need_web">Does your app need website?</string>
+    <string name="need_web_description">This means you will need to make an API. It is how all your friendly apps talk to each other using website as well.</string>
+    <string name="title_activity_choose_web">ChooseWeb</string>
+    <string name="title_activity_summary">Summary</string>
+    <string name="title_activity_pay">PayActivity</string>
+</resources>

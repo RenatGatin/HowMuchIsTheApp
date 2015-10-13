@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Repositories/Gatin/todo-app/HowMuchIsTheApp/app/libs/android-async-http-1.4.4.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="3bae85a076241828810bf8fbcc12e5891d5fc34c">
+        <dex dex="/Repositories/Gatin/todo-app/HowMuchIsTheApp/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.4-0eb204927d9254173e37c5c2235c992abb25d233.jar" />
+    </item>
+    <item
+        jar="/Repositories/Gatin/todo-app/HowMuchIsTheApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Repositories/Gatin/todo-app/HowMuchIsTheApp/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-9383e476c5155dd74e559b42b6f80741e26d7569.jar" />
+    </item>
+    <item
+        jar="/Repositories/Gatin/todo-app/HowMuchIsTheApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Repositories/Gatin/todo-app/HowMuchIsTheApp/app/build/intermediates/pre-dexed/debug/classes-391937edc4a309a467d24a5f77c10278be7ce749.jar" />
+    </item>
+    <item
+        jar="/Repositories/Gatin/todo-app/HowMuchIsTheApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Repositories/Gatin/todo-app/HowMuchIsTheApp/app/build/intermediates/pre-dexed/debug/classes-91d18c29df8b72b32d9fe95992f790ca9ae4818c.jar" />
+    </item>
+    <item
+        jar="/Users/gatin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Repositories/Gatin/todo-app/HowMuchIsTheApp/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-ae95d0f16213124f326f8958b3cbeaeee95990c8.jar" />
+    </item>
+    <item
+        jar="/Repositories/Gatin/todo-app/HowMuchIsTheApp/app/libs/jsoup-1.8.3.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="3a86e137575e4a45f5a9eec407f8135512e823a2">
+        <dex dex="/Repositories/Gatin/todo-app/HowMuchIsTheApp/app/build/intermediates/pre-dexed/debug/jsoup-1.8.3-057a489758c0df736426f5d733632ca0ae3a2bc0.jar" />
+    </item>
+
+</items>
